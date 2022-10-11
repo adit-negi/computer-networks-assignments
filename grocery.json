@@ -1,0 +1,52 @@
+{
+    "type": "ORDER",
+    "contents": {
+        "veggies": {
+            "tomato": 4.5,
+            "cucumber": 1.7,
+            "potato": 5.0,
+            "onion": 3.5
+        },
+        "drinks": {
+            "cans": {
+                "coke": 2,
+                "beer": 3,
+                "gatorade": 1
+            },
+            "bottles": {
+                "sprite": 3,
+                "fanta": 2
+            }
+        },
+        "milk": [
+            {
+                "type": "whole",
+                "quatity": 2.5
+            },
+            {
+                "type": "oat",
+                "quatity": 1.5
+            }
+        ],
+        "bread": [
+            {
+                "type": "multigrain",
+                "quatity": 2
+            },
+            {
+                "type": "white",
+                "quatity": 1
+            }
+        ],
+        "meat": [
+            {
+                "type": "chicke",
+                "quatity": 2.5
+            },
+            {
+                "type": "lamb",
+                "quatity": 1.5
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+h3 python3 test_router.py -A 10.0.0.4 -P 4444 &> r3.log &
+h4 python3 test_router.py -A 10.0.0.5 -P 4444 &> r4.log &
+h5 python3 test_router.py -A 10.0.0.6 -P 4444 &> r5.log &
+h6 python3 test_router.py -A 10.0.0.7 -P 5555 &> r6.log &
+h7 python3 test_server.py &> server.log &
